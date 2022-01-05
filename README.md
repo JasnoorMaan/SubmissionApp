@@ -13,7 +13,7 @@ Talking of business, hospitals,NGOs and donation camp organisation can be charge
 
 
 Firebase Authorization is integrated and a bottom navigation bar is used with three fragments, icons are from flaticon,due to some android resource linking failure error an apk
-could not be built(considering this app was built by only a person from the ground up, I could not include the jetpack libraries or implement any material.io. or mlkit
+could not be built(considering this app was built by only a person from the ground up, I could not include the jetpack libraries or implement any material.io. or mlkit)
 Also a piece of this app's working code is on my github as my first repo   
 
 
